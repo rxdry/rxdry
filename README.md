@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rxdry" alt="rxdry" /></a> </p>
 
-- 🔭 I generally work with HTML and CSS
+- 🌟 I generally work with HTML and CSS
 
-- 🌱 Also with Python
+- 🌟 Also with Python
 
-- 👯 Although I can also work with PHP
+- 🌟 Although I can also work with PHP
 
-- 🤝 Just tell me about your project and I will help you
+- 🌟 Just tell me about your project and I will help you
 
-- 📫 How to reach me **rxdry01@gmail.com**
+- 🌟 How to reach me **rxdry01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
