@@ -1,4 +1,4 @@
-<h1 align="center">### Hi, here rxdry 👋</h1>
+<h1 align="center"> Hi, here rxdry 👋</h1>
 <h3 align="center">A passionate frontend and backend developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/934529071168229399/934635997864525834/image0_1_2.gif">
 
